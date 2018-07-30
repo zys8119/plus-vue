@@ -1,0 +1,22 @@
+{
+  "name": "plus-vue",
+  "version": "1.0.0",
+  "description": "vue plus插件",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zys8119/plus-vue.git"
+  },
+  "author": "张云山",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zys8119/plus-vue/issues"
+  },
+  "homepage": "https://github.com/zys8119/plus-vue#readme",
+  "dependencies": {
+  }
+}
